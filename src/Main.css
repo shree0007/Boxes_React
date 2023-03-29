@@ -1,5 +1,14 @@
 .main {
+    width: 980px;
+    margin: auto;
     display: flex;
-    margin: 16rem;
+    margin-top: 15rem;
+}
 
+button {
+    height: 60px;
+    border-radius: 8px;
+    border: none;
+    background-color: brown;
+    color: white;
 }
